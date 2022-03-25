@@ -1,0 +1,19 @@
+.meal-container{
+display: grid;
+grid-template-columns: 4fr 1fr;
+background-color: #2D2013;
+color: white;
+padding-top: 50px;
+}
+.food-container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 20px;
+}
+.cart-container{
+    background-color: #FF9827;
+    margin: 5px;
+    border-radius: 20px;
+    color: black;
+    padding: 5px;
+}

@@ -1,0 +1,19 @@
+.details-container{
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 20px;
+}
+.details-container img{
+width: 500px;
+border-radius: 20px;
+}
+.order-btn{
+    padding: 5px;
+    background-color: #FF9827;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
